@@ -1,4 +1,6 @@
 {
+    "name": "vizualni/curl-transformer",
+    "description": "Adapter for transforming requests to curl command output. e.g. \"curl -X GET http://google.com\"",
     "require-dev": {
         "phpunit/phpunit": "^5.7"
     },

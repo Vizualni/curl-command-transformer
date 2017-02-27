@@ -1,2 +1,2 @@
 # curl-command-transformer
-Adapter project that can be used to transform requests to curl command output
+Bridge project that can be used to transform requests to curl command output
